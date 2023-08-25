@@ -1,6 +1,6 @@
 ![Design and Development](https://media.licdn.com/dms/image/D5616AQHKj34L5AVG8Q/profile-displaybackgroundimage-shrink_350_1400/0/1671544389211?e=1698278400&v=beta&t=1AKZjP-QBh_mQ4ysnIYxAeVEK50psIQZzTDTXQa8VPY)
 
-# Adrian Twarog
+# Akrosh Tiwari
 I'm Akrosh from Nepal, and I do Frontend Design and Development. I really enjoy learning languages and frameworks like React and Node, as well as working in WordPress. I also enjoy wireframing, UI, UX, and design in general. 
 
 ## Skills and Experience
