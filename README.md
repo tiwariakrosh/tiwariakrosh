@@ -9,7 +9,7 @@ I'm Akrosh from Nepal, and I do Frontend Design and Development. I really enjoy 
 
 ## Examples of Work
 <div style='display="flex'>
-<img src="https://tiwariakrosh.github.io/akroshtiwari_portfolio/static/media/cakehops.2bc7707383b969317a93.webp" width="312" >
+<img src="https://tiwariakrosh.github.io/akroshtiwari_portfolio/static/media/cakehops.2bc7707383b969317a93.webp" width="312" > &nbsp; &nbsp;
 <img src="https://tiwariakrosh.github.io/akroshtiwari_portfolio/static/media/hopmeds.180e0cbba3eaed5e1b2c.webp" width="312" >
 </div>
 
