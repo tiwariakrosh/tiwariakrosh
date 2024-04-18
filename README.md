@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/tiwariakrosh/tiwariakrosh/blob/main/Github_Banner.png)
+//![Design and Development](https://github.com/tiwariakrosh/tiwariakrosh/blob/main/Github_Banner.png)
 
 # Akrosh Tiwari
 I'm Akrosh from Nepal, and I do Frontend Design and Development. I really enjoy learning languages and frameworks like React and Node, as well as working in WordPress. I also enjoy wireframing, UI, UX, and design in general. 
