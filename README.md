@@ -64,5 +64,5 @@ Beyond code, I care deeply about developer experience: enforcing strict standard
 <a href="https://firebase.google.com/" title="Firebase"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Firebase/ffca28"></a>
 
 
-&nbsp; I like connecting with different people so if you want to say _Hi👋🏻_, here are my social media handles _[@tiwariakrosh](https://tiwariakrosh.github.io/akroshtiwari_portfolio/)_. I'll be happy to meet you more!
+&nbsp; I like connecting with different people so if you want to say _Hi👋🏻_, here are my social media handles _[@tiwariakrosh](https://akroshtiwari.com.np/)_. I'll be happy to meet you more!
 
