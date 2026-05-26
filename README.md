@@ -5,7 +5,11 @@
 -->
 
 # Akrosh Tiwari
-I'm Akrosh from Nepal, and I do Frontend Design and Development. I really enjoy learning languages and frameworks like React and Node, as well as working in WordPress. I also enjoy wireframing, UI, UX, and design in general. 
+A results-driven Front-End Developer with 4+ years of experience specializing in React.js, Next.js, and modern web technologies. I've built SaaS platforms, SME portals, digital wallet systems, e-commerce dashboards, telephony solutions, and reusable design systems.
+
+I'm passionate about translating business requirements into clean, maintainable, and user-friendly interfaces — from pixel-perfect UI to robust CI/CD pipelines and monorepo architectures.
+
+Beyond code, I care deeply about developer experience: enforcing strict standards, maintaining scalable codebases, and leaving every project better than I found it.
 
 ## Skills and Experience
 * ⚛ React
